@@ -14,9 +14,18 @@ Test case design - Page Object Model
 - GitHub desktop (repository)
 
 # How to run
-1. Clone the repository from GitHub:  git clone ${GitHubUrl}
-2. In a new terminal run the command:  ```cd <repo> && npm i```    OR    ```npm install```
-3. From the project directory, run:  ```.\node_modules\.bin\cypress open```
+1. Clone the repository from GitHub:  
+
+`git clone https://github.com/777quality/Cypress-PrimaryBid--JavaScript`
+
+2. In a new terminal run the command:  
+
+`cd <repo> && npm i`    OR    `npm install`
+
+3. From the project directory, run:  
+
+`.\node_modules\.bin\cypress open`
+
 4. Select testsuite.spec.js
  
 # UI UX Observations
